@@ -1,0 +1,39 @@
+_repo: Color-Key-to-North-American-Birds--13-with-bibliographical-appendix_38003
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reed, Chester A. (Chester Albert)
+    alias: Reed, Chester Albert
+    birthdate: 1876
+    deathdate: 1912
+    gutenberg_agent_id: '34298'
+    url: http://www.gutenberg.org/2009/agents/34298
+covers:
+- cover_type: archival
+  image_path: 38003-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chapman, Frank M. (Frank Michler)
+    alias: Chapman, Frank Michler
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '35445'
+    url: http://www.gutenberg.org/2009/agents/35445
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38003'
+  lccn: '13000002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- North America'
+- !lcc 'QL'
+title: "Color Key to North American Birds\r\nwith bibliographical appendix"
+url: http://www.gutenberg.org/ebooks/38003
